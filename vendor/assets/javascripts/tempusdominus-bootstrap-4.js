@@ -80,7 +80,7 @@ var DateTimePicker = function ($) {
         disabledDates: false,
         enabledDates: false,
         icons: {
-            time: 'fa fa-clock-o',
+            time: 'far fa-clock',
             date: 'fa fa-calendar',
             up: 'fa fa-arrow-up',
             down: 'fa fa-arrow-down',
